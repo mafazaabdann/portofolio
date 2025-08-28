@@ -1,2 +1,2 @@
-# portofolio
-PORTO MAFAZA
+# My-Portfolio-Web
+Simple Portfolio Project
